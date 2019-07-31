@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: mg995_control
+Description: Description of mg995_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: roscpp std_msgs geometry_msgs

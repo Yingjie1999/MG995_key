@@ -1,0 +1,8 @@
+prefix=/home/song/syj_ws/src/mg995_control/cmake-build-debug/devel
+
+Name: mg995_control
+Description: Description of mg995_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/song/syj_ws/src/mg995_control/cmake-build-debug/devel/lib 
+Requires: roscpp std_msgs geometry_msgs
